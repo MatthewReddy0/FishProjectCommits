@@ -1,4 +1,4 @@
-from FishProject.app import fish_frame as ff
+from FishProjectCommits.app import fish_frame as ff
 import pandas as pd
 
 

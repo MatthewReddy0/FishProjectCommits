@@ -1,5 +1,5 @@
-from FishProject.app import average_the_fish as atf
-from FishProject.app import fish_frame as ff
+from FishProjectCommits.app import average_the_fish as atf
+from FishProjectCommits.app import fish_frame as ff
 import pandas as pd
 import numpy as np
 
